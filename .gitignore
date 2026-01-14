@@ -1,0 +1,17 @@
+# Don't upload secrets
+.streamlit/secrets.toml
+
+# Don't upload large files (we'll rebuild them)
+*.pkl
+*.index
+
+# Don't upload virtual environment
+.venv/
+venv/
+
+# Don't upload Python cache
+__pycache__/
+*.pyc
+
+# Don't upload Mac files
+.DS_Store
