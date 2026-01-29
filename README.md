@@ -117,7 +117,7 @@ The app will open at `http://localhost:8501`
 - **Fallback Chunking**: If standard resume structure isn't detected, uses size-based chunking
 - **Rejected File Storage**: Invalid files are stored but not processed, with detailed rejection reasons
 - **Conversation Context**: Remembers last 10 Q&A exchanges for follow-up questions
-- **Name Resolution**: "Dhruv Kumar" matches "Dhruv Kamalesh Kumar GenAI Resume.pdf"
+- **Name Resolution**: 
 
 ## 🔒 Privacy & Security
 
