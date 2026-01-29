@@ -193,7 +193,7 @@ MIT License - feel free to use and modify!
 
 **Weibo Zheng**
 - MS Data Analytics Engineering @ Northeastern University
-- [LinkedIn](www.linkedin.com/in/weibo-zheng-0b360b122)
+- [LinkedIn](https://www.linkedin.com/in/weibo-zheng-0b360b122)
 - [GitHub](https://github.com/weibo704)
 
 ## 🙏 Acknowledgments
