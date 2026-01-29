@@ -14,7 +14,7 @@ An AI-powered Resume Q&A system that allows you to upload up to 20 resumes and a
 
 ## 🚀 Live Demo
 
-[Try it here](https://resume-rag-app-a8w5etwmdm3jysvaryxpwh.streamlit.app/) *(Add your Streamlit Cloud URL after deployment)*
+[Try it here](https://resume-rag-app-a8w5etwmdm3jysvaryxpwh.streamlit.app/) **
 
 ## 📋 How to Use
 
