@@ -14,7 +14,7 @@ An AI-powered Resume Q&A system that allows you to upload up to 20 resumes and a
 
 ## 🚀 Live Demo
 
-[Try it here](https://your-app-url.streamlit.app) *(Add your Streamlit Cloud URL after deployment)*
+[Try it here](https://resume-rag-app-a8w5etwmdm3jysvaryxpwh.streamlit.app/) *(Add your Streamlit Cloud URL after deployment)*
 
 ## 📋 How to Use
 
@@ -193,7 +193,7 @@ MIT License - feel free to use and modify!
 
 **Weibo Zheng**
 - MS Data Analytics Engineering @ Northeastern University
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](www.linkedin.com/in/weibo-zheng-0b360b122)
 - [GitHub](https://github.com/weibo704)
 
 ## 🙏 Acknowledgments
